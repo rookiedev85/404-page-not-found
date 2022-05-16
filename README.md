@@ -18,19 +18,9 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
-## Overview
 
 ![screenshot] ![404](https://user-images.githubusercontent.com/102922995/168668836-72651bf2-a944-40cf-bfc6-330d051f1823.gif)
 
